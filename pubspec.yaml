@@ -33,7 +33,7 @@ dependencies:
   get_it: ^7.7.0
   get_it_mixin: ^4.2.2
   google_maps_flutter: ^2.12.3
-  go_router: ^14.8.1
+  go_router: ^16.1.0
   home_widget: ^0.8.0 # use the forked version when on `main` flutter branch
 #    git:
 #      url: https://github.com/gskinnerTeam/flutter_home_widget_fork.git
@@ -52,9 +52,9 @@ dependencies:
   sized_context: ^1.0.0+1
   smooth_page_indicator: ^1.2.1
   unsplash_client: ^3.0.0
-  url_launcher: ^6.3.1
+  url_launcher: ^6.3.2
   webview_flutter: ^4.13.0
-  youtube_player_iframe: ^5.2.1
+  youtube_player_iframe: ^5.2.2
 
 dev_dependencies:
   icons_launcher: ^3.0.1
